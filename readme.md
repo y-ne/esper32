@@ -1,7 +1,8 @@
 ## Configuration
 
 ESP32-S3-VROOM-1 N16R8 (16MB Flash, 8MB PSRAM)
-```c
+
+```cpp
 Board : ESP32S3 Dev Module
 
 // Adjust, check your device manager
